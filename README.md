@@ -36,6 +36,7 @@ As we review the data above, it's important to focus on how many employees there
 ![image](https://user-images.githubusercontent.com/89496798/143787396-7bc0ff06-53e7-4940-8a93-8e7f5eb4c42d.png)
 - This gives us an idea of how many roles will need to be filled as the "silver tsunami" begins to make an impact.
 
+
 Let's also get the count of employees eligible for the mentorship program:
 
 ![image](https://user-images.githubusercontent.com/89496798/143787270-e30a7b8d-9e12-4095-8896-9ff0427b3c63.png)
