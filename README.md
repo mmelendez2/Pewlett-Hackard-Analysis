@@ -31,4 +31,9 @@ We named this table Mentorship Eligiblity:
 ![image](https://user-images.githubusercontent.com/89496798/143786477-08a0c705-ec0f-4832-af7f-f771c04e250b.png)
 
 ## Silver Tsunami Summary
-As we review the data above, it becomes evident that 
+As we review the data above, it's important to focus on how many employees there are near retirement and how many are eligible for the mentorship program. First, we can find out the number of current employees by couting the employee numbers in our Current Employees table:
+
+![image](https://user-images.githubusercontent.com/89496798/143787046-31c6e76d-ff87-41d1-892f-970910c54c4f.png)
+
+Let's also get the count of retiring titles from the Retiring Titles table we created earlier:
+
