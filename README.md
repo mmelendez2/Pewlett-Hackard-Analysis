@@ -61,3 +61,4 @@ By comparing the two tables:
 - There would only be **77** Technique Leaders eligible to mentor newly hired Technique Leaders needed to fill the **4,502** retiring (**1.71%**)
 - There will **not be any** Managers eligible to train the newly hired Managers needed to fill the **2** retiring (**0.00%**)
  
+Given the extremely low percentages of those eligible to mentor within their respective titles and responsibilities, it may be best to create very detailed documentation outlining the responsibilities of their roles at a high level. Those newly hired will have to heavily rely on their immediate teams rather than being mentored. The demand for mentors will be too high to support the influx of new hires. If Pewlett-Hackard does decide to move forward with the mentorship program, it would be wise to only assign mentors to new hires that may be having a hard time with the subject matter or their tasks.
