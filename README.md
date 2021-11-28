@@ -35,4 +35,4 @@ We named this table Mentorship Eligiblity:
 ![image](https://user-images.githubusercontent.com/89496798/143786477-08a0c705-ec0f-4832-af7f-f771c04e250b.png)
 
 ## Silver Tsunami Summary
-As we review the data above, it's important to focus on how many current employees there are, how many employees there are near retirement, and how many are eligible for the mentorship program.
+As we review the data above, it's important to focus on the count of employees retiring bulletted above vs. the number of those eligible for the mentorship program. 
