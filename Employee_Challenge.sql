@@ -38,7 +38,7 @@ ORDER BY COUNT (ut.title) DESC;
 SELECT DISTINCT ON (e.emp_no)
 	e.emp_no,
 	e.first_name,
-	e.last_name,
+	e.last_name, 
 	e.birth_date,
 	de.from_date,
 	de.to_date,
