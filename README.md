@@ -35,6 +35,11 @@ As we review the data above, it's important to focus on how many employees there
 
 ![image](https://user-images.githubusercontent.com/89496798/143787046-31c6e76d-ff87-41d1-892f-970910c54c4f.png)
 
+Let's also get the count of employees whose birthdate was is between 1952 and 1955 from our Emp_Info table:
+
+![image](https://user-images.githubusercontent.com/89496798/143787396-7bc0ff06-53e7-4940-8a93-8e7f5eb4c42d.png)
+
+
 Let's also get the count of employees eligible for the mentorship program:
 
 ![image](https://user-images.githubusercontent.com/89496798/143787270-e30a7b8d-9e12-4095-8896-9ff0427b3c63.png)
