@@ -234,3 +234,8 @@ FROM employees AS e
 		ON (e.emp_no = t.emp_no)
 WHERE (de.to_date = '9999-01-01')
 AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
+
+SELECT COUNT (emp_no), title
+FROM mentorship_eligibility
+GROUP BY title
+ORDER BY COUNT(emp_no) DESC;
