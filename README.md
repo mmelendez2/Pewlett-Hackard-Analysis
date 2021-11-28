@@ -35,5 +35,6 @@ As we review the data above, it's important to focus on how many employees there
 
 ![image](https://user-images.githubusercontent.com/89496798/143787046-31c6e76d-ff87-41d1-892f-970910c54c4f.png)
 
-Let's also get the count of retiring titles from the Retiring Titles table we created earlier:
+Let's also get the count of employees eligible for the mentorship program:
 
+![image](https://user-images.githubusercontent.com/89496798/143787231-64f37c3c-e8aa-4718-9baf-b18184b37d81.png)
