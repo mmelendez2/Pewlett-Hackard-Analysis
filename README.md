@@ -37,4 +37,4 @@ As we review the data above, it's important to focus on how many employees there
 
 Let's also get the count of employees eligible for the mentorship program:
 
-![image](https://user-images.githubusercontent.com/89496798/143787251-13790f3f-aab8-4af3-85db-56526211d5f0.png)
+![image](https://user-images.githubusercontent.com/89496798/143787270-e30a7b8d-9e12-4095-8896-9ff0427b3c63.png)
