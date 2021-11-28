@@ -16,7 +16,7 @@ the employee number, the employees first and last name, their title, and their h
 ![image](https://user-images.githubusercontent.com/89496798/143786209-d172d202-e1c5-4908-b8fb-39339a4807ea.png)
 
 Next, we refactored our code to only include unique titles for each empployee. We named this table Unique Titles. As we know, employees may have transitioned into different roles or departments and in this casse,
-we used the most recent job title by ordering our employee number by ascending, and then our to_date by deescnding:
+we used the most recent job title by ordering our employee number by ascending, and then our to_date by descending:
 
 ![image](https://user-images.githubusercontent.com/89496798/143786316-5620a20e-d47f-4b2d-a04e-85cb4bd4c00c.png)
 
