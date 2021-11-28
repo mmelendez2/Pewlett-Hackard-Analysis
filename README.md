@@ -38,10 +38,16 @@ We named this table Mentorship Eligiblity:
 As we review the data above, it's important to focus on the count of employees retiring bulletted above vs. the number of those eligible for the mentorship program. We captured the total number of employees retiring by counting the employee number from our unique_titles table:
 
 ![image](https://user-images.githubusercontent.com/89496798/143789371-60652089-0305-42ba-bf48-f67d6bd98b74.png)
+- This gives us an idea of how many roles will need to be filled as the "silver tsunami" begins to make an impact - **90,398**.
 
-We can also count the number of employees eligible for the mentorship program:
+Now, we can also count the number of employees eligible for the mentorship program:
 
 ![image](https://user-images.githubusercontent.com/89496798/143789429-4d3a1005-adcb-44fc-9d28-7af7f6cf8875.png)
-- This is only **1.72%** of the **90,398** retiring.
+- This is only **1.72%** of the **90,398** retiring. This is not nearly enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
+
+By further breaking down the count of those eligible for the mentorship program by title we can compare this with those retiring with a similar title:
+
+![image](https://user-images.githubusercontent.com/89496798/143789646-f66e56ea-1ae1-4666-aaa4-4b77531bba99.png)
+
 
 
