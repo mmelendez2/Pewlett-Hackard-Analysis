@@ -34,7 +34,7 @@ We named this table Mentorship Eligiblity:
 As we review the data above, it's important to focus on how many employees there are near retirement and how many are eligible for the mentorship program. First, we can find out the number of employees whose birthday is between 1952 and 1955 from our Emp_Info table:
 
 ![image](https://user-images.githubusercontent.com/89496798/143787396-7bc0ff06-53e7-4940-8a93-8e7f5eb4c42d.png)
-
+- This gives us an idea of how many roles will need to be filled as the "silver tsunami" begins to make an impact.
 
 Let's also get the count of employees eligible for the mentorship program:
 
@@ -42,5 +42,5 @@ Let's also get the count of employees eligible for the mentorship program:
 
 We can also get the count of employees eligible for the mentorship program by title:
 
-![image](https://user-images.githubusercontent.com/89496798/143787515-de5a4115-c839-424d-8d41-711710b24582.png)
+![image](https://user-images.githubusercontent.com/89496798/143787553-c7211e01-7896-406f-ad38-37533b7cb746.png)
 
