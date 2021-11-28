@@ -26,7 +26,7 @@ After this, we created a table to break down the number of employees per title t
 
 ![image](https://user-images.githubusercontent.com/89496798/143786362-d2957a04-e234-444e-b8e3-c178a49456c5.png)
 - As we can see from above, a majority of employees retiring are Senior Engineers (**29,414**) and Senior Staff (**28,255**).
-- Senior Engineers and Senior Staff retiring accounts for **63.80%**
+- Senior Engineers and Senior Staff retiring accounts for **63.80%** of all retiring.
 
 Once we narrowed down the lists of employees near retirement, we created a final table to determine who would be eligible to participate in the program. We used data from the
 Employees, Department Employees, and Titles tables to compile our list. We used the to_date column and employee birth dates between January 1, 1965 and December 31, 1965 as our filters.
