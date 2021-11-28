@@ -51,4 +51,5 @@ By further breaking down the count of those eligible for the mentorship program 
 
 By comparing the two tables:
 
-![image](https://user-images.githubusercontent.com/89496798/143789668-d2ae231b-5151-48a3-bb83-ff0f3753c0c0.png)
+![image](https://user-images.githubusercontent.com/89496798/143789668-d2ae231b-5151-48a3-bb83-ff0f3753c0c0.png) -- ![image](https://user-images.githubusercontent.com/89496798/143789679-d1bc6880-6242-4522-9be3-1d20b0591338.png)
+
