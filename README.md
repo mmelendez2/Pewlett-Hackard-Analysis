@@ -6,7 +6,7 @@ Instead of having a significant percent of the workforce retiring, management wo
 opportunity to return to a part-time role to mentor newly hired individuals. As many employees near their retirement age, it's important to first highlight the number of
 retiring employees and then we can later determine who would be eligible to become a mentor.
 
-## Retiring Employees
+## Retiring Employee Results
 
 By using SQL and PgAdmin, we were able to look into large subsets of employee data and even combine our datasets into tailored lists for review. We did this in a few steps:
 
@@ -30,3 +30,5 @@ We named this table Mentorship Eligiblity:
 
 ![image](https://user-images.githubusercontent.com/89496798/143786477-08a0c705-ec0f-4832-af7f-f771c04e250b.png)
 
+## Silver Tsunami Summary
+As we review the data above, it becomes evident that 
