@@ -31,7 +31,7 @@ We named this table Mentorship Eligiblity:
 ![image](https://user-images.githubusercontent.com/89496798/143786477-08a0c705-ec0f-4832-af7f-f771c04e250b.png)
 
 ## Silver Tsunami Summary
-As we review the data above, it's important to focus on how many employees there are near retirement and how many are eligible for the mentorship program. First, we can find out the number of employees whose birthday is between 1952 and 1955 from our Emp_Info table:
+As we review the data above, it's important to focus on how many current employees there are, how many employees there are near retirement, and how many are eligible for the mentorship program. First, we can find out the number of employees whose birthday is between 1952 and 1955 from our Emp_Info table:
 
 ![image](https://user-images.githubusercontent.com/89496798/143787396-7bc0ff06-53e7-4940-8a93-8e7f5eb4c42d.png)
 - This gives us an idea of how many roles will need to be filled as the "silver tsunami" begins to make an impact.
