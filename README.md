@@ -51,4 +51,13 @@ By further breaking down the count of those eligible for the mentorship program 
 
 By comparing the two tables:
 
+![image](https://user-images.githubusercontent.com/89496798/143789751-bb486874-dedf-43c0-8fa0-6f148cf859a7.png)
 
+- There would only be **569** Senior Staff eligible to mentor newly hired Senior Staff needed to fill the **28,255** retiring (**2.01%**)
+- There would only be **501** Engineers eligible to mentor newly hired Engineers needed to fill the **14,222** retiring (**3.52%**)
+- There would only be **169** Senior Engineers eligible to mentor newly hired Senior Engineers needed to fill the **29,414** retiring (**0.58%**)
+- There would only be **155** Staff eligible to mentor newly hired Staff needed to fill the **12,242** retiring (**1.267%**)
+- There would only be **78** Assistant Engineers eligible to mentor newly hired Assitant Engineers needed to fill the **1,761** retiring (**4.43%**)
+- There would only be **77** Technique Leaders eligible to mentor newly hired Technique Leaders needed to fill the **4,502** retiring (**1.71%**)
+- There will **not be any** Managers eligible to train the newly hired Managers needed to fill the **2** retiring (**0.00%**)
+ 
