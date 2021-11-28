@@ -35,4 +35,13 @@ We named this table Mentorship Eligiblity:
 ![image](https://user-images.githubusercontent.com/89496798/143786477-08a0c705-ec0f-4832-af7f-f771c04e250b.png)
 
 ## Silver Tsunami Summary
-As we review the data above, it's important to focus on the count of employees retiring bulletted above vs. the number of those eligible for the mentorship program. 
+As we review the data above, it's important to focus on the count of employees retiring bulletted above vs. the number of those eligible for the mentorship program. We captured the total number of employees retiring by counting the employee number from our unique_titles table:
+
+![image](https://user-images.githubusercontent.com/89496798/143789371-60652089-0305-42ba-bf48-f67d6bd98b74.png)
+
+We can also count the number of employees eligible for the mentorship program:
+
+![image](https://user-images.githubusercontent.com/89496798/143789429-4d3a1005-adcb-44fc-9d28-7af7f6cf8875.png)
+- This is only **1.72%** of the **90,398** retiring.
+
+
